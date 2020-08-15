@@ -1,57 +1,71 @@
-# 5. How to Plan for Opening Schools Safely and With Optimal Educational Support?
+---
+layout: page
+title: 04. Informationen zu Mund-Nasen-Bedeckung und selbstgenähten „Behelfsmasken“
+nav_order: 5
+---
+ 
+<details markdown="block"> 
+  <summary> 
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+  </summary>
+ 
+1. TOC
+{:toc}
+ </details>
+ 
+   <p></p>
+ 
+ 
+Einfache Mund-Nasen-Bedeckungen werden getragen, um die Viruslast in der
+unmittelbaren Umgebung zu senken. Es wird davon ausgegangen, dass die
+Schwere einer Erkrankung mit der eingeatmeten Virenmenge zusammenhängt.
+Deswegen werden die Mund-Nasen-Bedeckungen hauptsächlich empfohlen, um
+andere Personen zu schützen.
 
-The following should be in place before a school can open safely:
+Mund-Nasen-Bedeckungen mit einem Ventil sollten deshalb nicht verwendet
+werden, da durch das Ventil Keime aus der eigenen Ausatemluft
+ungefiltert nach außen geblasen werden. Besonders in den letzten Monaten
+kam es zu einem Engpass bei der Beschaffung von Schutzkleidung. Vor
+allem die medizinischen Mund-Nasen-Bedeckungen waren kaum noch zu
+erhalten. Selbstgenähte Masken haben keine wissenschaftlich
+nachgewiesene Schutzwirkung vor einer Übertragung des Corona- Virus.
 
-## 5.1 A risk assessment
+Trotzdem gibt es Anzeichen, dass auch diese Masken schützen können,
+wenn ein paar Punkte beachtet werden:
 
-A risk assessment should be conducted at four levels including risk
-assessment of the school, the staff, the pupil and the parents and
-family environment. A risk assessment should follow **full engagement
-with local authorities, school managers, trade unions, parents,
-inspectors, staff and the community.** The assessment process needs to
-be understood and tailored to the risks and contexts of communities and
-their members and to the feasibility of schools to implement appropriate
-infection control procedures. This includes the different risks from
-lessons in different subjects (e.g. where there is sharing of equipment)
-and the ability to socially distance within schools. Consideration
-should be given to use of non-school facilities which may provide a
-better infection control environment, such as independent school
-buildings and playing fields, and sports facilities and football
-stadiums, which will be unused during this time. Such engagement will
-ensure an optimal solution to providing high quality education, social
-interaction and physical activities to children. The ability to be
-outside or in very well ventilated buildings or marquees will be
-associated with reduced infection rates.
+1.  Verwenden Sie die richtige Stoffart. Baumwollstoffe mit einer hohen
+    Fadendichte haben eine gute Filterleistung. Aufpassen: Nicht zu
+    dichte Stoffe verwenden, sonst erhöht sich der Atemwiderstand und
+    das Atmen fällt schwer.
 
-## 5.2 Are local infections low enough?
+2.  Verwenden Sie Mund-Nasen-Bedeckungen aus mehreren Stofflagen. Durch
+    ein elektrostatisches Aufladen zwischen den Schichten erhöht sich
+    die Filterleistung. Achten Sie auch hier unbedingt darauf, dass der
+    Atemwiderstand nicht zu hoch ist.
 
-Local communities need to be sure that there are **few people currently
-infected and that numbers of new infections are decreasing**, with the
-definition of ‘few’ considered in the context of declines locally over
-the previous 2 weeks and numbers at the peak of the pandemic. Such data
-may not be available; data access and public availability is a critical
-gap in the current management of the pandemic.  
+3.  Reinigen Sie Ihre Hände vor dem Anziehen der Mund- Nasen-Bedeckung
+    und achten Sie darauf nicht die Innenseite zu berühren.
 
-## 5.3 Hygiene and personal protection
+4.  Die Mund-Nasen-Bedeckung sollte gut an den Rändern abschließen und
+    möglichst enganliegend über Mund, Nase und Wange liegen.
 
-Schools need to ensure adequate access for hand hygiene including
-sufficient and clean toilets and wash facilities and hand sanitisers. As
-well as social distancing, some schools in countries such as France and
-China are making the use of face coverings compulsory.
+5.  Reinigen Sie Ihre selbstgefertigten Mund-Nasen- Bedeckungen
+    unbedingt regelmäßig und am besten nach jeder Nutzung. Waschen Sie
+    sie bei mindestens 60°C, am besten jedoch bei 95°C.
 
-Children should be given designated equipment including stationary to
-reduce the risk of contagion spread.
+6.  Wechseln Sie Ihre selbstgefertigte Mund-Nasen-Bedeckung sofort aus,
+    wenn sie durchfeuchtet ist. Die warme Feuchtigkeit bietet ideale
+    Lebensbedingungen für Bakterien und Viren.
 
-## 5.4 Find cases, test, trace, isolate.
+7.  Bei bestimmten Krankheiten (z. Bsp. schweres COPD oder schweres
+    Asthma) ist das Tragen von Masken nicht zumutbar oder könnte sogar
+    den Gesundheitszustand verschlechtern. Prüfen Sie, ob Sie von der
+    Maskenpflicht befreit werden sollten. Dazu nehmen Sie bitte Kontakt
+    zu Ihrem Hausarzt auf. So kann auch im öffentlichen Raum auf das
+    Tragen der Masken verzichtet werden. Es empfiehlt sich jedoch dann,
+    den öffentlichen Raum, in dem das Tragen von Masken vorgeschrieben
+    ist, möglichst zu meiden.  
 
-A **test, trace, isolate (TTI) infrastructure** can rapidly suppress
-transmission, as well as provide confidence to staff, pupils, families
-and the local community that there will not be new uncontrolled local
-outbreaks. In the absence of a top-down, well-functioning system, which
-is not expected to be in place in the very near future, we recommend
-**local solutions to TTI, linked to local public health authorities and
-primary care, but with systems in place to allow as near as possible to
-for local data to contribute to national data collection**. This could
-involve wider testing of staff and pupils in schools to quickly identify
-asymptomatic infections, within an ethical, appropriate and agreed
-structure.
+<div class="section fnlist" data-role="doc-footnotes">
+
+</div>

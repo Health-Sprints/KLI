@@ -1,53 +1,57 @@
-# Appendix
+---
+layout: page
+title: 06. Medikamente und Hitze
+nav_order: 7
+---
+ 
+<details markdown="block"> 
+  <summary> 
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+  </summary>
+ 
+1. TOC
+{:toc}
+ </details>
+ 
+   <p></p>
+ 
+ 
+Achten Sie besonders während Hitzeperioden auf die Medikamenteneinnahme
+Hitze hat einen Einfluss auf die Aufnahme, die Verteilung, den Abbau und
+die Ausscheidung von Arzneimitteln im Körper.
 
-## 1\. National Education Union Criteria for Schools Re-opening
+Medikamente können …
 
-Test 1 : **Much lower numbers of Covid-19 cases** The new case count
-must be much lower than it is now, with a sustained downward trend and
-confidence that new cases are known and counted promptly. And the
-Government must have extensive arrangements for testing and contact
-tracing to keep it that way.
+  - das Schwitzen vermindern
 
-Test 2 : **A national plan for social distancing** The Government must
-have a national plan including parameters for both appropriate physical
-distancing and levels of social mixing in schools, as well as for
-appropriate PPE, which will be locally negotiated at school-by-school
-and local authority level.
+  - die Körpertemperatur beeinflussen
 
-Test 3 : **Testing, testing, testing\!** Comprehensive access to regular
-testing for children and staff to ensure our schools and colleges don’t
-become hot spots for Covid-19.
+  - die Gefäße verengen
 
-Test 4 : **Whole school strategy** Protocols to be put in place to test
-a whole school or college when a case occurs and for isolation to be
-strictly followed.
+  - zum Verlust von Flüssigkeit führen
 
-Test 5 : **Protection for the vulnerable.** Vulnerable staff, and staff
-who live with vulnerable people, must work from home, fulfilling their
-professional duties to the extent that is possible. Plans must
-specifically address the protection of vulnerable parents, grandparents
-and carers.
+ 
 
-## 2\. Uncertainty levels for the risk of contagion
+Besprechen Sie Ihre Medikamenteneinnahmen mit Ihrem Arzt.
 
-The following graphic illustrates the uncertainty that attends the
-predictions of risk (here, the risk of contagion). This is probably too
-much detail for the consultation document but could be used to reassure
-people that a formal risk analysis could be pursued if and when
-necessary. The graph below shows when we would expect the risk of
-contagion to fall below 1% (broken line) based upon UK averages. This
-analysis could be repeated for regional data (e.g., time series of new
-cases and deaths).
+Einige Medikamente wie ACE-Hemmer sind als Risikofaktor bei einer
+Erkrankung mit dem Corona-Virus in der Diskussion. Sprechen Sie auch
+diesen Punkt mit dem behandelnden Arzt ab.
 
-![](ed2c3f8e-80b3-4a5c-8af3-7f0aaede1a0d.png)
+Achten Sie auf die Lagerungstemperaturen Ihrer Medikamente. Manche
+Medikamente dürfen nicht bei höheren Temperaturen gelagert werden sonst
+verlieren sie ihre Wirksamkeit. Hier hilft Ihnen Ihre Apotheke beratend
+weiter.
 
-From the point of view of the epidemiology, June 1 stands in for 52 days
-following the peak of infections (10 April for London). This means ‘June 1’ is the earliest date at which risk may be acceptable for some areas.
-**Other areas could defer their ‘June 1st’ in relation to their local
-experience**.
+Die hier aufgeführten Maßnahmen und Hinweise stützen sich auf die
+aktuellen wissenschaftlichen Erkenntnisse zu Hitze und Covid-19 (Stand
+03.06.2020). Das Virus SARS-Cov-2 ist neuartig, deswegen kommen stetig
+neue Erkenntnisse und Änderungen zum derzeitigen Wissensstand hinzu.
+Verfolgen Sie bitte die neuen Erkenntnisse aufmerksam und passen Sie
+sich den neuen Gegebenheiten individuell an.
 
-## 3\. WHO Checklists
+ 
 
-![](1926f32d-5209-4d0f-9fa1-72a4513b5e19.png)
+<div class="section fnlist" data-role="doc-footnotes">
 
-![](ab2e38c8-701a-4178-bbbf-2bf6f4f86691.png)
+</div>
