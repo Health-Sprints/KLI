@@ -1,21 +1,6 @@
----
-layout: page
-title: 04. Informationen zu Mund-Nasen-Bedeckung und selbstgenähten „Behelfsmasken“
-nav_order: 5
----
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
+# Informationen zu Mund-Nasen-Bedeckung und selbstgenähten „Behelfsmasken“
+
+
 Einfache Mund-Nasen-Bedeckungen werden getragen, um die Viruslast in der
 unmittelbaren Umgebung zu senken. Es wird davon ausgegangen, dass die
 Schwere einer Erkrankung mit der eingeatmeten Virenmenge zusammenhängt.

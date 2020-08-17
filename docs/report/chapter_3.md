@@ -1,21 +1,5 @@
----
-layout: page
-title: 02. Wer ist besonders betroffen?
-nav_order: 3
----
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
+# Wer ist besonders betroffen?
+
 ![](238d8918-f03e-48ce-9b12-cad0e7e3c05e.png)
 
 Ältere (65+) und vor allem sehr alte Menschen (80+), sowie Menschen mit

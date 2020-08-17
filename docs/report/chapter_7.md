@@ -1,21 +1,7 @@
----
-layout: page
-title: 06. Medikamente und Hitze
-nav_order: 7
----
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
+# Medikamente und Hitze
+
+
+
 Achten Sie besonders während Hitzeperioden auf die Medikamenteneinnahme
 Hitze hat einen Einfluss auf die Aufnahme, die Verteilung, den Abbau und
 die Ausscheidung von Arzneimitteln im Körper.

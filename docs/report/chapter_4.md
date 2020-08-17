@@ -1,21 +1,6 @@
----
-layout: page
-title: 03. Tipps für Ihren Alltag
-nav_order: 4
----
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
+# Tipps für Ihren Alltag
+
+
 Für Sie ist es wichtig zu wissen, wie Sie sich selbst schützen können.
 Gewissenhafte Hygienemaßnahmen sind dabei entscheidend, sollten aber dem
 Schutz vor Hitze nicht entgegenwirken. Dies ist eine besondere
@@ -104,26 +89,24 @@ kühlenden Effekt.
 
   - Ihre Flüssigkeitsmenge erhöhen durch:
 
-<!-- end list -->
+      - regelmäßiges Trinken von (gekühlten) Getränken (vermeiden Sie
+        Alkohol und koffeinhaltige Getränke). Empfohlen ist, etwa alle zwei
+        Stunden ein Glas (150 - 250ml) zu trinken. Sie können selbst
+        überprüfen, ob die Trinkmenge ausreicht. Der Urin sollte hellgelb
+        sein und nicht riechen. Wenn der Urin eine dunkelgelbe Färbung
+        aufweist, wird vermutlich zu wenig getrunken.
 
-  - • regelmäßiges Trinken von (gekühlten) Getränken (vermeiden Sie
-    Alkohol und koffeinhaltige Getränke). Empfohlen ist, etwa alle zwei
-    Stunden ein Glas (150 - 250ml) zu trinken. Sie können selbst
-    überprüfen, ob die Trinkmenge ausreicht. Der Urin sollte hellgelb
-    sein und nicht riechen. Wenn der Urin eine dunkelgelbe Färbung
-    aufweist, wird vermutlich zu wenig getrunken.
-
-  - • Essen von wasserreichem Obst und Gemüse in kleinen Portionen
+    - Essen von wasserreichem Obst und Gemüse in kleinen Portionen
     über den Tag verteilt.
 
-  - • Zubereiten von wasserreichen Speisen wie Kaltschalen aus
+    - Zubereiten von wasserreichen Speisen wie Kaltschalen aus
     Gemüsesuppen oder gedünstetem Gemüse Nehmen Sie Angebote von
     Nachbarn und Angehörigen wahr und lassen Sie sich Ihre Einkäufe nach
     Hause bringen. Achten Sie dabei auf einen den Abstand zu Ihren
     Helfern und tragen Sie beim Entgegennehmen der Einkäufe eine
     Mund-Nasen-Bedeckung.
 
- 
+ <!-- end list -->
 
 ## 5\. Falls Sie dennoch selbst Besorgungen oder Arztbesuche tätigen müssen, dann ...
 

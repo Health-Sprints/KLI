@@ -1,21 +1,6 @@
----
-layout: page
-title: 08. Anerkennung
-nav_order: 9
----
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
+# Anerkennung
+
+
 Diese Broschüre entstand mit freundlicher Mitwirkung des
 wissenschaftlichen Beirates:
 

@@ -1,21 +1,5 @@
----
-layout: page
-title: 01. Die Gesundheit für Hitze schützen - auch in Zeiten hohen Infektionsschutzes
-nav_order: 2
----
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
+# Die Gesundheit für Hitze schützen - auch in Zeiten hohen Infektionsschutzes
+
 Hitzeereignisse treten aufgrund des Klimawandels in Deutschland häufiger
 auf, sind intensiver und dauern länger an. Auch für diesen Sommer
 werden Hitzeereignisse erwartet.

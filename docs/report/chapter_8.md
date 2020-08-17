@@ -1,21 +1,6 @@
----
-layout: page
-title: 07.Hilfreiche Links
-nav_order: 8
----
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
+# Hilfreiche Links
+
+
 **Deutscher Wetterdienst**
 
 [www.dwd.de](https://www.dwd.de "https://www.dwd.de")

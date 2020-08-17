@@ -1,12 +1,12 @@
 ![cover](report/cover.png ':size=50%')
 
-> The Independent SAGE Report 2
 
-# Should Schools Reopen? Interim Findings and Concerns
+# Gut durch die Sommerhitze wahrend erhbhtem lnfektionsschutz
 
-> Draft Document for Public Discussion
+> lnformationen fur altere Menschen ab 65 Jahren
 
-- The Independent Scientific Advisory Group for Emergencies (SAGE)
-- May 22, 2020
+- lnstitut und Poliklinik fur Arbeits-, Sozial- und Umweltmedizin<br>
+des LMU Klinikums
+- Juli 2020
 
-[Read](report/chapter_0.md) [About](#about-the-report)
+[Über uns](basics/overview.md)

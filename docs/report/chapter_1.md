@@ -1,21 +1,3 @@
----
-layout: page
-title: 00-Startseite
-nav_order: 1
----
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
 ![](6062433b-c868-4828-80b6-c6deb54e9112.png)
 
 Gut durch die Sommerhitze während erhöhtem Infektionsschutz

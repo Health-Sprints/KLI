@@ -1,21 +1,7 @@
----
-layout: page
-title: 05. Körperliche Warnsignale
-nav_order: 6
----
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
+# Körperliche Warnsignale
+
+
+
 Seien Sie besonders achtsam, wenn folgende Symptome auftreten. Sie
 könnten Anzeichen dafür sein, dass Sie Hitze nicht gut vertragen.
 
@@ -54,7 +40,7 @@ kontaktieren Sie den Arzt immer zuerst telefonisch.
 Bedenken Sie, dass Symptome auch deutlich nach einem Aufenthalt in der
 Hitze auftreten können\!
 
-Den **Notarzt (Telefonnummer: 112**) sollten Sie sofort verständigen
+Den **Notarzt (Telefonnummer: 112)** sollten Sie sofort verständigen
 bei:
 
   - Bewusstseinseintrübung mit reduzierter Ansprechbarkeit
