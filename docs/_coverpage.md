@@ -1,6 +1,5 @@
 ![cover](report/cover.png ':size=50%')
 
-
 # Gut durch die Sommerhitze wahrend erhbhtem lnfektionsschutz
 
 > lnformationen fur altere Menschen ab 65 Jahren
@@ -9,4 +8,4 @@
 des LMU Klinikums
 - Juli 2020
 
-[Über uns](basics/overview.md)
+[Lesen Sie](report/chapter_1.md) [Über uns](basics/overview.md) 

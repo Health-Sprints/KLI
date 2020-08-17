@@ -1,6 +1,5 @@
 # Anerkennung
 
-
 Diese Broschüre entstand mit freundlicher Mitwirkung des
 wissenschaftlichen Beirates:
 
@@ -38,7 +37,3 @@ LMU Klinikums
 Projekt gefördert von dem **Bundesministerium für Umwelt, Naturschutz
 und nukleare Sicherheit (BMU**) aufgrund eines Beschlusses des Deutschen
 Bundestages (Projektnummer: 67DAS213)
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>
