@@ -26,7 +26,3 @@ Grafik:
 Petra Morcher
 
 PeMoCoDe
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

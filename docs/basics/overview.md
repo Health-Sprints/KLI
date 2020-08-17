@@ -1,43 +1,28 @@
-Autoren: Stephan Böse-O´Reilly, Katharina Deering, Hanna Mertes, Julia Schoierer www.klimawandelundbildung.de
+![](6062433b-c868-4828-80b6-c6deb54e9112.png)
 
-Grafik: Petra Morcher, PeMoCoDe
+Gut durch die Sommerhitze während erhöhtem Infektionsschutz
 
----
+Informationen für ältere Menschen ab 65 Jahren
 
-Diese Broschüre entstand mit freundlicher Mitwirkung des
-wissenschaftlichen Beirates:
+Institut und Poliklinik für Arbeits-, Sozial- und Umweltmedizin des LMU
+Klinikums
 
-Dr. Christian Berringer, Bundesministerium für Gesundheit (BMG)
+![](21c1ceee-07c1-4c9f-a59a-47bfa1c2e9a4.png)
 
-Johanna Grünewald, Umwelt- und Verbraucherschutzamt, Stadt Köln
+Autoren:
 
-Dr. Michael an der Heiden, Robert Koch Institut (RKI)
+Stephan Böse-O´Reilly
 
-Dr. Andreas Hellmann, Ehrenvorsitzender des Bundesverband der
-Pneumologen (BdP)
+Katharina Deering
 
-Prof. Dr. Caroline Herr, Landesamt für Gesundheit und
-Lebensmittelsicherheit (LGL)
+Hanna Mertes
 
-**Dr. Alina Herrmann**, Institute of Global Health, Klinikum Universität
-Heidelberg
+Julia Schoierer
 
-**Dr. Stefan Karrasch**, Institut und Poliklinik für Arbeits-, Sozial-
-und Umweltmedizin des
+[www.klimawandelundbildung.de](https://www.klimawandelundbildung.de/)
 
-LMU Klinikums
+Grafik:
 
-**Dr. Ralph Krolewski**, Deutscher Hausärzteverband (DHÄV)
+Petra Morcher
 
-**Dr. Franziska Matthies**, Helmholtz Zentrum, München
-
-**Prof. Andreas Matzarakis**, Deutscher Wetterdienst (DWD)
-
-**Dr. Hans-Guido Mücke**, Umweltbundesamt (UBA)
-
-**Dr. Peter Tinnemann**, Akademie für Öffentliches Gesundheitswesen
-(AÖGW)
-
-Projekt gefördert von dem **Bundesministerium für Umwelt, Naturschutz
-und nukleare Sicherheit (BMU**) aufgrund eines Beschlusses des Deutschen
-Bundestages (Projektnummer: 67DAS213)
+PeMoCoDe
