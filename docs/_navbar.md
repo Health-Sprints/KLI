@@ -3,7 +3,7 @@
 
 * Format
 
-  * [web buch](https://health-sprints.github.io/KLI-server/webbook/#src=kli&bookMode=true)
+  * [webbuch](https://health-sprints.github.io/KLI-server/webbook/#src=kli&bookMode=true)
   * [PDF](https://health-sprints.github.io/KLI-server/pdf/book.pdf)
 
 <!--

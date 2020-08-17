@@ -1,11 +1,32 @@
-# KLI
+![](6062433b-c868-4828-80b6-c6deb54e9112.png)
 
-Print book size: 148mm wide x 210mm high
+# Gut durch die Sommerhitze während erhöhtem Infektionsschutz
 
-Covers: duplex
+Informationen für ältere Menschen ab 65 Jahren
 
-Fonts: roboto - light, medium, heavy
+Institut und Poliklinik für Arbeits-, Sozial- und Umweltmedizin des LMU
+Klinikums
 
-webbuch: https://health-sprints.github.io/KLI/vivliostyle-viewer-2.0.0-pre.10/viewer/#src=https://health-sprints.github.io/KLI/webuch/index.html&bookMode=true
+ * [Web](https://health-sprints.github.io/KLI/#/)
+ * [Webbuch](https://health-sprints.github.io/KLI-server/webbook/#src=kli&bookMode=true)
+ * [PDF](https://health-sprints.github.io/KLI-server/pdf/book.pdf)
 
-pdf: https://health-sprints.github.io/KLI/pdf.pdf
+![](21c1ceee-07c1-4c9f-a59a-47bfa1c2e9a4.png)
+
+Autoren:
+
+Stephan Böse-O´Reilly
+
+Katharina Deering
+
+Hanna Mertes
+
+Julia Schoierer
+
+www.klimawandelundbildung.de
+
+Grafik:
+
+Petra Morcher
+
+PeMoCoDe
