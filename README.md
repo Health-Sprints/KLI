@@ -2,10 +2,9 @@
 
 # Gut durch die Sommerhitze während erhöhtem Infektionsschutz
 
-Informationen für ältere Menschen ab 65 Jahren
+## Informationen für ältere Menschen ab 65 Jahren
 
-Institut und Poliklinik für Arbeits-, Sozial- und Umweltmedizin des LMU
-Klinikums
+Institut und Poliklinik für Arbeits-, Sozial- und Umweltmedizin des LMU Klinikums
 
  * [Web](https://health-sprints.github.io/KLI/#/)
  * [Webbuch](https://health-sprints.github.io/KLI-server/webbook/#src=kli&bookMode=true)
